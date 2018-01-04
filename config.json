@@ -1,0 +1,15 @@
+{
+    "title": "Test Custom 7",
+    "baseURL": "https:\/\/custom.widget.com",
+    "languageCode": "en-us",
+    "theme": "tvpage",
+    "disablePathToLower": true,
+    "enableRobotsTXT": true,
+    "galleryChannelIds": "",
+    "params": {
+        "loginId": "1758823",
+        "subfolder": "",
+        "firstpartycookies": true,
+        "cookiedomain": "widget.com"
+    }
+}
